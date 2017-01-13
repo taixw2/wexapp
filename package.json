@@ -1,6 +1,6 @@
 {
   "name": "wexapp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "生成一个微信小程序的page目录",
   "main": "index.js",
   "scripts": {

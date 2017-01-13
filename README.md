@@ -19,6 +19,3 @@ npm i wexapp -g
 wexapp -i [dirname]
 
 ```
-
-## License
-MIT
